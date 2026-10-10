@@ -53,7 +53,7 @@ Permite a un **Propietario** dar de alta una nueva embarcación en la plataforma
 {
   "name": "Yate Tayrona Sea Breeze",
   "legal_registration": "CP-04-2021-0892",
-  "vessel_type": "YATE",
+  "vessel_type": "YACHT",
   "max_capacity": 25,
   "base_rate": "450000.00",
   "berth_location": {
@@ -126,7 +126,7 @@ Permite a un **Propietario** dar de alta una nueva embarcación en la plataforma
   "name": "Yate Tayrona Sea Breeze",
   "registration_number": "CP-04-2021-0892",
   "is_draft": false,
-  "operational_status": "DISPONIBLE",
+  "operational_status": "AVAILABLE",
   "photo_url": "/uploads/embarcaciones/d3b07384-yate.jpg",
   "published_at": "2026-10-09T19:05:00Z"
 }
