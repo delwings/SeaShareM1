@@ -4,3 +4,10 @@
  
 ## Módulo de Registro y Gestión de Flota
 Este módulo abarca el ciclo de vida inicial de las embarcaciones: desde su registro por parte de los propietarios, la validación de matrículas y puertos mediante mapas, hasta la gestión de sus estados operativos y la integración con los módulos de reservas y liquidación.
+
+## Diagrama de Casos de Uso
+A continuación se muestra el diagrama general de casos de uso que rige la arquitecetura y el comportamiento del sistema:
+ 
+![DCU](docs/diagrams/sea-share-m1.png)
+
+
