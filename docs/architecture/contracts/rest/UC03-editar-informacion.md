@@ -117,7 +117,7 @@ Permite a un **Propietario** actualizar la información comercial de una embarca
   "vessel_id": "3f2c1a54-8b3e-4d7a-9c10-5a2b7e6f1d01",
   "name": "Yate Tayrona Sea Breeze II",
   "registration_number": "CP-04-2021-0892",
-  "vessel_type": "YATE",
+  "vessel_type": "YACHT",
   "max_capacity": 30,
   "base_rate_cop": "500000.00",
   "photo_url": "/uploads/embarcaciones/3f2c1a54-yate.jpg",
